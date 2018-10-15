@@ -1,5 +1,5 @@
 var app = new Vue({
-
+/* this is a simple comment*/
   el: '#app',
   data:{
     todoItem:[
